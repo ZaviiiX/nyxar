@@ -320,4 +320,11 @@ footer {
   .container {
     margin-top: 35vh;
   }
+
+  .hero-video {
+    transform: scale(1) translateY(-15%);
+    /* ili više gore: */
+    /* transform: scale(1.02) translateY(-20%); */
+    /* transform: scale(1.02) translateY(-25%); */
+  }
 }
